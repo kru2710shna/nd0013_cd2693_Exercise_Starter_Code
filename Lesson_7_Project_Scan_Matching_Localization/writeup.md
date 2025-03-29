@@ -55,6 +55,6 @@ cd /home/workspace
 Demonstration of vehicle localization using LiDAR scan matching and ICP
 Final pose alignment shown through corrected point cloud rendering
 
-![Image](Lesson_7_Project_Scan_Matching_Localization/Img/ICPTouchDown.png)
+![ICPTouchDown](https://github.com/user-attachments/assets/e23d4c71-140e-492b-a4fe-a0ac132df9e2)
 
 
